@@ -1,0 +1,23 @@
+[
+{
+"id": "LlPtdb4hXX3447YH7XYrt9",
+"created_at": "2020-03-18T09:02:39Z",
+"reported_by": "Huey",
+"status": "Investigating",
+"message": "<div>Our devs are looking into the issue.</div>"
+},
+{
+"id": "GkSMzCWZfLZzam9AK4oGKi",
+"created_at": "2020-03-18T09:02:56Z",
+"reported_by": "Dewey",
+"status": "Identified",
+"message": "<div>Our devs have found the issue and researching a solution.</div>"
+},
+{
+"id": "J7eS9zJpNbVrXb2FxVuUik",
+"created_at": "2020-03-18T09:03:31Z",
+"reported_by": "Louie",
+"status": "Verifying",
+"message": "<div>A fix has been deployed and our devs are verifying the solution.</div>"
+}
+]
