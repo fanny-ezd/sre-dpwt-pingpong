@@ -1,0 +1,61 @@
+{
+  "id": "Jssim89FNndMeDZxWeNHc3",
+  "project": "Digital Platforms",
+  "title": "Incident on multiple group",
+  "created_at": "2022-09-23T14:43:20Z",
+  "status": "In progress",
+  "affected_components": [
+    {
+      "id": "8uQrPUSWiBQpBWvewisESQ",
+      "project": "Digital Platforms",
+      "name": "API Management",
+      "description": "API functional and technical administration portal for API owners and technical teams",
+      "status": "Operational",
+      "status_color": "green",
+      "group": {
+        "id": "VNoHibWBwHJeNArV8V4f5z",
+        "project": "Digital Platforms",
+        "name": "API Platform",
+        "created_at": "2022-08-19T08:35:56Z",
+        "description": "Provide API Factory Digital Platform with a commitment of sustainability, transparency and positivity"
+      },
+      "showcased": true
+    },
+    {
+      "id": "VuR5qRGD5uLQwvRPgedT7g",
+      "project": "Digital Platforms",
+      "name": "Landing 2 Raw",
+      "description": "The Landing2Raw service allows users to transfer files and archives from the Datalake Landing Zone store to the Raw Zone.",
+      "status": "Operational",
+      "status_color": "green",
+      "group": {
+        "id": "eoQMZUGr28ttnFtKttjynt",
+        "project": "Digital Platforms",
+        "name": "Data Platform",
+        "created_at": "2022-08-19T08:39:04Z",
+        "description": "Easily and securely consume company data and develop data models to deploy high-value digital solutions thanks to the Data Platform"
+      },
+      "showcased": true
+    },
+    {
+      "id": "brFpvDfUmzXwFqmVM8kjri",
+      "project": "Digital Platforms",
+      "name": "IoT Dataflow",
+      "description": "Data transfer to the IoT platform",
+      "status": "Operational",
+      "status_color": "green",
+      "group": {
+        "id": "d2j77VRrQLaF2nBoWX4ciJ",
+        "project": "Digital Platforms",
+        "name": "IoT Platform",
+        "created_at": "2022-08-19T08:37:34Z",
+        "description": "Provide an IoT platform to accelerate TotalEnergies' digital transformation and enable the emergence of new digital projects"
+      },
+      "showcased": true
+    }
+  ],
+  "reported_by": "Fanny",
+  "occurred_at": "2022-09-23T14:43:00Z",
+  "message": "<div>Test declaration of an incident on multiple groupe</div>",
+  "updates": []
+}
