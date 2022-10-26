@@ -1,0 +1,30 @@
+{
+"id": "k9gVLLPoNgbPA72HQKvy2b",
+"project": "ACME",
+"name": "Database migration",
+"created_at": "2020-02-03T12:15:58Z",
+"status": "In progress",
+"affected_components": [
+{
+"id": "GZ7tIAmLacSDW7sHe9Fskl",
+"project": "ACME",
+"name": "API",
+"group": {
+"id": "Qgc5CGxVJTMY8MCShAqcij",
+"project": "ACME",
+"name": "System",
+"created_at": "2020-02-07T18:35:09Z",
+"description": null
+},
+"created_at": "2020-02-07T14:22:03Z",
+"status": "Maintenance mode",
+"status_color": "gray",
+"description": null,
+"showcased": true
+}
+],
+"reported_by": "Donald Duck",
+"scheduled_for": "2020-02-10T22:00:00Z",
+"ends_at": "2020-02-10T23:00:00Z",
+"message": "<div>Upgrading version of <b>main database</b> from version 9.0 to <strikethrough>10.0</strikethrough> 10.2.</div>"
+}
